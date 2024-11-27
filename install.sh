@@ -510,7 +510,7 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer ArdXRyz   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fazxz     ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : Fazxz offc   ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Fazxz offc   ${NC}"
